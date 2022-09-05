@@ -1,0 +1,28 @@
+
+STEP 1. get clone of both node & ReactJS projects :
+
+Github URL for the NodeJs Backend :
+
+https://github.com/devDotfullstack11/node_postgre_learning.git
+
+Github URL for the ReactJs Frontent :
+
+https://github.com/devDotfullstack11/react_js.git
+
+import api.sql from node_postgre_learning repo and change db credentials in db.config.js
+
+STEP 2:
+
+run `npm install` in both projects to install dependencies into them.
+
+
+STEP 3. 
+
+- run npm start in react js project
+
+- run nodemon/node app in NodeJs Project.
+
+- created Server is accessible at port 3101 .
+
+
+
